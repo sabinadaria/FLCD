@@ -1,0 +1,9 @@
+myNameIs ^Max^(){
+iamNumber ^max^, ^a^, b
+iGot: ^a^
+iGot: b
+^max^ is ^a^
+if b> ^max^
+^max^ is b
+youGot: ^max^
+}

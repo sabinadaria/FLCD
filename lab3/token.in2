@@ -1,0 +1,12 @@
+myNameIs ^Prime^(){
+iamNumber ^x^, ^i^
+iGot: ^x^
+iamBoolean ^k^
+^k^ is True
+if ^x^=0 or ^x^=1
+^k^ is False
+for ^i^=2 to ^x^ by 1
+if ^x^ % ^i^ = 0
+^k^ is False
+youGot: ^k^
+}
